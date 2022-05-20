@@ -18,4 +18,6 @@ Then various GNNs architecture are implemented for link prediction:
 
 For GAE and VGAE both a simple inner product decoder than a more complex linear decoder is implemented.
 
+![image](PPI.png)
+
 
