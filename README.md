@@ -21,7 +21,10 @@ For GAE and VGAE both a simple inner product decoder than a more complex linear 
 "runs" folders contain tensorboard files for comparing losses, average precisions and AUC of each GNN architecture.
 
 
-\\
+\
+\
+\
+
 
 ![image](PPI.png) 
 
