@@ -18,7 +18,14 @@ Then various GNNs architecture are implemented for link prediction:
 
 For GAE and VGAE both a simple inner product decoder than a more complex linear decoder is implemented.
 
-"runs" folders contain tensorboard files for comparing losses, average precisions and AUC of each GNN architecture.\\
+"runs" folders contain tensorboard files for comparing losses, average precisions and AUC of each GNN architecture.
+
+
+
+
+
+&nbsp;
+&nbsp;
 
 
 
