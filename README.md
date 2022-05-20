@@ -24,14 +24,6 @@ For GAE and VGAE both a simple inner product decoder than a more complex linear 
 
 
 
-&nbsp;
-&nbsp;
-
-
-
-
-
-
 ![image](PPI.png) 
 
 
