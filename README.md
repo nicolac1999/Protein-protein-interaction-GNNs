@@ -2,7 +2,7 @@
 
 
 Project for the Data Science Honors program 2021-2022
-[project_link](./project/Protein_Protein_Link_Prediction_Nicola_Calabrese.pdf)
+[Protein-Protein Link Prediction](./project/Protein_Protein_Link_Prediction_Nicola_Calabrese.pdf)
 
 The aim of the project is Link prediction on proteins interaction based on Graph Neural Network
 
