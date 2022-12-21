@@ -1,7 +1,7 @@
 # Protein-protein-interaction - Link Prediction
 
 
-Project for the Data Science Honors programme 2021-2022
+Project for the Data Science Honors program 2021-2022
 
 The aim of the project is Link prediction on proteins interaction based on Graph Neural Network
 
